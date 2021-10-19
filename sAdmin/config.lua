@@ -1,0 +1,30 @@
+--
+-- Created by Serax.
+--
+Config = {}
+--Config.Uniforms = {
+	--	male = {
+		--	['tshirt_1'] = 15,  ['tshirt_2'] = 0,
+		--	['torso_1'] = 361,   ['torso_2'] = 12,
+		--	['decals_1'] = 0,   ['decals_2'] = 0,
+		---	['arms'] = 10,
+		--	['pants_1'] = 140,   ['pants_2'] = 12,
+		--	['shoes_1'] = 98,   ['shoes_2'] = 12,
+		--	['helmet_1'] = -1,  ['helmet_2'] = 0,
+		--	['chain_1'] = 0,    ['chain_2'] = 0,
+		--	['mask_1'] = 189,  ['mask_2'] = 12,
+		--	['ears_1'] = -1,     ['ears_2'] = 0
+	--	},
+		--female = {
+		--	['tshirt_1'] = 15,  ['tshirt_2'] = 0,
+		--	['torso_1'] = 178,   ['torso_2'] = 9,
+		--	['decals_1'] = 0,   ['decals_2'] = 0,
+		--	['arms'] = 31,
+		--	['pants_1'] = 77,   ['pants_2'] = 9,
+		---	['shoes_1'] = 55,   ['shoes_2'] = 9,
+		--	['helmet_1'] = 91,  ['helmet_2'] = 9,
+		--	['chain_1'] = 1,    ['chain_2'] = 0,
+		--	['mask_1'] = -1,  ['mask_2'] = 0,
+		--	['ears_1'] = 2,     ['ears_2'] = 0
+		--}
+    --}
